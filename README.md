@@ -1,2 +1,3 @@
-# clisp
-lisp on c
+# tisp
+
+lisp on deno
